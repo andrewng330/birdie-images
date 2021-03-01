@@ -3,12 +3,12 @@
     "short_name": "",
     "icons": [
         {
-            "src": "https://github.com/andrewng330/birdie-images/blob/main/images/favicon/android-chrome-192x192.png?raw=true",
+            "src": "https://github.com/andrewng330/birdie-images/blob/main/favicon/android-chrome-192x192.png?raw=true",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://github.com/andrewng330/birdie-images/blob/main/images/favicon/android-chrome-256x256.png?raw=true",
+            "src": "https://github.com/andrewng330/birdie-images/blob/main/favicon/android-chrome-256x256.png?raw=true",
             "sizes": "256x256",
             "type": "image/png"
         }
